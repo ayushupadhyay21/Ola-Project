@@ -1,5 +1,7 @@
 📊 Ola Ride Booking and Cancellation Analysis Project
+
 🗂️ Project Overview
+
 This project analyzes and visualizes ride booking data from Ola Cabs. It covers data ingestion, cleaning, transformation using SQL, and interactive visual representation via Power BI. The goal is to uncover patterns in user behavior, ride cancellations, driver performance, and payment methods — enabling stakeholders to make data-driven decisions.
 
 🔧 Project Structure
@@ -9,6 +11,7 @@ This project analyzes and visualizes ride booking data from Ola Cabs. It covers 
 ├── Sql problems.sql          # SQL scripts for analysis and data modeling
 ├── Ola Project Dashboard.pbix # Power BI dashboard file
 └── README.md                 # Project documentation
+
 📑 Dataset Description
 The Ola Database.csv contains detailed records of Ola ride bookings. Each row represents a booking and includes:
 
