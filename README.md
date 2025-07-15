@@ -3,9 +3,7 @@
 This project analyzes and visualizes ride booking data from Ola Cabs. It covers data ingestion, cleaning, transformation using SQL, and interactive visual representation via Power BI. The goal is to uncover patterns in user behavior, ride cancellations, driver performance, and payment methods — enabling stakeholders to make data-driven decisions.
 
 🔧 Project Structure
-plaintext
-Copy
-Edit
+
 📁 Ola Project/
 ├── Ola Database.csv          # Raw dataset containing booking records
 ├── Sql problems.sql          # SQL scripts for analysis and data modeling
